@@ -1,0 +1,25 @@
+/* Page Title */
+
+.pagetitle{
+    margin-bottom: 10px;
+}
+
+.pagetitle h1{
+    font-size: 24px;
+    margin-bottom: 0;
+    font-weight: 600;
+    color: #012970;
+}
+
+.breadcrumb-item a i {
+    display: inline-block;
+    font-size: 0.9rem;
+    margin-bottom: 1px;
+    vertical-align: middle; /* İkonu metinle hizalamak için */
+  }
+  
+  .breadcrumb-item a {
+    display: inline-block;
+    margin-right: 1px; /* Metin ve ikon arasındaki boşluğu ayarlamak için */
+  }
+  
